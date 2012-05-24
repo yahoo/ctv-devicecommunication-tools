@@ -6,12 +6,15 @@ This Device Communication platform supports two-way message-passing between Inte
 The Yahoo! Connected TV Device Communication Tools repository provides miscellaneous tools and utilities for development on Yahoo! Connected TV's Device Communication platform.
 
 # Documentation
+
+You can find the Device Communication Java Library at https://github.com/yahoo/ctv-devicecommunication-java
+
 You can find Device Communication documentation at http://developer.yahoo.com/connectedtv/devicecommunication 
 
-You can find more information about Yahoo! Connected TV at http://connectedtv.yahoo.com and more developer documentation http://developer.yahoo.com/connectedtv 
+You can find more information about Yahoo! Connected TV at http://connectedtv.yahoo.com and more developer documentation at http://developer.yahoo.com/connectedtv 
 
 # License
-The Yahoo! Connected TV Device Communication Java Library is licensed under the following BSD License.
+The Yahoo! Connected TV Device Communication Tools repository is licensed under the following BSD License.
 
 Software License Agreement (BSD License)
 Copyright c 2012 Yahoo! Inc. All rights reserved.
