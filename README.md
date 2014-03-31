@@ -9,9 +9,9 @@ The Yahoo Connected TV Device Communication Tools repository provides miscellane
 
 You can find the Device Communication Java Library at https://github.com/yahoo/ctv-devicecommunication-java
 
-You can find Device Communication documentation at http://developer.yahoo.com/connectedtv/devicecommunication 
+You can find Device Communication documentation at https://developer.yahoo.com/connectedtv/devicecommunication 
 
-You can find more information about Yahoo Connected TV at http://smarttv.yahoo.com and more developer documentation at http://developer.yahoo.com/connectedtv 
+You can find more information about Yahoo Connected TV at https://smarttv.yahoo.com and more developer documentation at https://developer.yahoo.com/connectedtv 
 
 # License
 The Yahoo Connected TV Device Communication Tools repository is licensed under the following BSD License.
