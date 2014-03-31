@@ -17,7 +17,7 @@ You can find more information about Yahoo Connected TV at http://smarttv.yahoo.c
 The Yahoo Connected TV Device Communication Tools repository is licensed under the following BSD License.
 
 Software License Agreement (BSD License)
-Copyright c 2014, Yahoo. All rights reserved.
+Copyright (c) 2014, Yahoo. All rights reserved.
 
 Redistribution and use of this software in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
